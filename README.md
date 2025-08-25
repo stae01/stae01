@@ -12,9 +12,6 @@ I'm a passionate [front-end / back-end / full-stack / software] developer who lo
 - 💬 Ask me about: `Java`, `Python`, `Git`, etc.
 - ⚡ Fun fact: I love cars and late-night coding sessions 👨‍💻☕
 
-![Anime Coding](https://media.giphy.com/media/1ap97JTGkqLg35Vnl6/giphy.gif)
-
-
 
 ## 🛠️ Technologies & Tools
 
