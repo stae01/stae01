@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Stae
 
-I'm a passionate [front-end / back-end / full-stack / software] developer who loves technology, innovation, and clean code.
+I'm a passionate developer who loves technology, innovation, and clean code.
 
 
 ## 🚀 About Me
