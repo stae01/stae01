@@ -4,8 +4,6 @@
 
 I'm a passionate [front-end / back-end / full-stack / software] developer who loves technology, innovation, and clean code.
 
-![Programador trabajando](https://media.giphy.com/media/3ohs7KsiJvYmXn4oXq/giphy.gif)
-
 
 ## 🚀 About Me
 
@@ -13,6 +11,9 @@ I'm a passionate [front-end / back-end / full-stack / software] developer who lo
 - 🌱 Currently learning: `React`, `Node.js`, `Docker`.
 - 💬 Ask me about: `Java`, `Python`, `Git`, etc.
 - ⚡ Fun fact: I love cars and late-night coding sessions 👨‍💻☕
+
+![Programando Anime](https://media.giphy.com/media/l0IylOP3cVZlq5Jvi/giphy.gif)
+
 
 ## 🛠️ Technologies & Tools
 
