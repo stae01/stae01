@@ -13,7 +13,7 @@ I'm a passionate developer who loves technology, innovation, and clean code.
 - ⚡ Fun fact: I love cars and late-night coding sessions 👨‍💻☕
 
 
-## HackerRank
+## -
 
 - 💻 [HackerRank](https://www.hackerrank.com/omar_mendoza1)
 
