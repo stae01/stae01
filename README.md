@@ -7,9 +7,9 @@ I'm a passionate developer who loves technology, innovation, and clean code.
 
 ## 🚀 About Me
 
-- 🎓 I´m a Software Engineer
+- 🧑🏻‍💻 Software Engineer
 - 🧠 Currently learning: `React`, `Node.js`, `Docker`, `Kubernetes`.
-- 💬 Ask me about: `Java`, `Python`, `Git`.
+- 💬 Ask me about: `Java`, `Python`, `Git` and `Bikes`.
 - ⚡ Fun fact: I love cars and late-night coding sessions 👨‍💻☕
 
 
