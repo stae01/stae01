@@ -27,12 +27,12 @@ I'm a passionate developer who loves technology, innovation, and clean code.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-### 🎨 UX/UI & Diseño
+### 🎨 UX/UI & Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge)
 
-### 🤖 Machine Learning & Ciencia de Datos
+### 🤖 Machine Learning & Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -41,7 +41,7 @@ I'm a passionate developer who loves technology, innovation, and clean code.
 
 
 
-### 🌐 Infraestructura & Servidores
+### 🌐 Infrastructure & Servers
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
