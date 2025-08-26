@@ -8,8 +8,8 @@ I'm a passionate developer who loves technology, innovation, and clean code.
 ## 🚀 About Me
 
 - 🎓 Currently studying Software Engineering
-- 🌱 Currently learning: `React`, `Node.js`, `Docker`.
-- 💬 Ask me about: `Java`, `Python`, `Git`, etc.
+- 🌱 Currently learning: `React`, `Node.js`, `Docker`, `Kubernetes`.
+- 💬 Ask me about: `Java`, `Python`, `Git`.
 - ⚡ Fun fact: I love cars and late-night coding sessions 👨‍💻☕
 
 
